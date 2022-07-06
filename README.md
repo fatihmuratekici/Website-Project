@@ -1,1 +1,1 @@
-web-site-project-m.netlify.app
+https://web-site-project-m.netlify.app/
